@@ -1,16 +1,45 @@
-# expense_tracker
+# Expense Tracker
 
-A new Flutter project.
+## Description
 
-## Getting Started
+An easy-to-use expense tracking app that helps users manage their finances by recording and categorizing their expenses.
 
-This project is a starting point for a Flutter application.
+## Key Features
 
-A few resources to get you started if this is your first Flutter project:
+- Track daily expenses and incomes
+- Categorize transactions for better insights
+- Visualize spending habits with charts and graphs
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+<img width="250" src="https://github.com/sanchitd9/expense-tracker-flutter/assets/38399292/d7eee12b-3e2a-4030-9b9b-3418a5989e24">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img width="250" src="https://github.com/sanchitd9/expense-tracker-flutter/assets/38399292/9fbb686f-af5c-4d89-ab1d-96e3879733c0">
+
+
+<img width="250" src="https://github.com/sanchitd9/expense-tracker-flutter/assets/38399292/5bd7780d-79af-4fb2-bc1d-8a411c95e2b0">
+
+
+## Installation
+
+1. Ensure you have Flutter installed. You can follow the official installation guide [here](https://flutter.dev/docs/get-started/install).
+
+2. Clone the repository:
+
+   ```sh
+   git clone https://github.com/sanchitd9/expense-tracker-flutter.git
+   cd expense-tracker-flutter
+   ```
+3. Install dependencies:
+
+  ```
+  flutter pub get
+  ```
+
+4. Ensure you have a device connected or an emulator running.
+5. Run the app:
+
+  ```
+  flutter run
+  ```
+
